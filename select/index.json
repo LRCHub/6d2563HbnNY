@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Anyone But You（feat. Miryo）",
+  "base_artist": "YENA",
+  "createdAt": "2026-02-14T10:04:13.489918Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Anyone But You (Feat. MIRYO of Brown Eyed Girls)",
+      "artist": "YENA",
+      "has_synced": true,
+      "path": "select/01_Anyone_But_You_(Feat._MIRYO_of_Brown_Eyed_Girls)_YENA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Anyone But You (Feat. MIRYO of Brown Eyed Girls)",
+      "artist": "YENA, Miryo",
+      "has_synced": false,
+      "path": "select/pl_01_Anyone_But_You_(Feat._MIRYO_of_Brown_Eyed_Girls)_YENA,_Miryo.txt"
+    }
+  ]
+}
